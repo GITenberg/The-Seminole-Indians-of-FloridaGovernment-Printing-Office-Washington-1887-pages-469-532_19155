@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '8509'
     url: http://www.gutenberg.org/2009/agents/8509
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/19155#The-Seminole-Indians-of-FloridaGovernment-Printing-Office-Washington-1887-pages-469-532
 gutenberg_bookshelf: Native America
 gutenberg_issued: '2006-09-01'
 gutenberg_type: Text
